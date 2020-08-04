@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go to my GitHub profile page
+          Back to my GitHub profile page
         </a>
       </header>
     </div>
